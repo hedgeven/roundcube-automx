@@ -1,1 +1,0 @@
-<?php$rcmail_config['automx_whitelist'] = array("*.incloud.de", "*.dogmaconsult.de");
